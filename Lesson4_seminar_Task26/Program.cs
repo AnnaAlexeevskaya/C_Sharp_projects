@@ -8,8 +8,8 @@
 
 int CountFigures(int num)
 {
-    int sum = 0;
-    int count = 0;
+  
+ int count = 0;
 
 if (num == 0) return 1;
 while (num != 0)
