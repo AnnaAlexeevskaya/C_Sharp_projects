@@ -6,7 +6,7 @@
 
 Console.WriteLine("Введите первую сторону:");
 int num1 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите второую сторону:");
+Console.WriteLine("Введите вторую сторону:");
 int num2 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите третью сторону:");
 int num3 = Convert.ToInt32(Console.ReadLine());
